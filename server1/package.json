@@ -1,0 +1,13 @@
+{
+  "name": "testapp",
+  "version": "1.0.0",
+  "description": "Server rendering Simple Page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ovsi",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
