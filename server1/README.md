@@ -1,2 +1,2 @@
-npm install - install example 
-npm start 
+npm install - install example;
+node index  - to start ssr
